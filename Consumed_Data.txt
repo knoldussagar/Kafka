@@ -1,0 +1,3 @@
+{"id":1,"name":"Sagar Goel","age":24,"course":"Btech"}
+{"id":1,"name":"Sagar Goel","age":24,"course":"Btech"}
+{"id":1,"name":"Sagar Goel","age":24,"course":"Btech"}
